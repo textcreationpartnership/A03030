@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Meditations miscellaneous, holy and humaneHenshaw, Joseph, 1603-1679.1637Approx. 74 KB of XML-encode
+
+1. TO THE RIGHT HONOVRABLE, THOMAS Lord Coventry, Baron of Alesborough, Lord Keeper of the Great Seale of England, and one of his Majesties most honourable Privie Councell.
+
+1. To the Reader,
+
+1. Errata.
+Imprimatur.Thomas Weekes, R. P. Episc. Lond. Cap. Domest.
 #####Body#####
-Meditations miscellaneous, holy and humaneHenshaw, Joseph, 1603-1679.1637Approx. 74 KB of XML-encode
+
+1. Meditations.
+
 **Types of content**
 
   * There are 212 **verse** lines!
